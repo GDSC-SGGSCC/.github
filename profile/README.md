@@ -1,12 +1,11 @@
-## Hi there 👋
+![Copy of dsc-podiumsign-ai](https://user-images.githubusercontent.com/59417546/183259956-e31e9100-b5eb-434c-9f2f-baffbd214092.png)
 
-<!--
+# Welcome to GDSC - Sri Guru Gobind Singh College of Commerce!!!
 
-**Here are some ideas to get you started:**
+Google Developer Student Clubs are community groups for college and university students interested in Google developer technologies.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a GDSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community.
+
+Google Developer Student Clubs is a program supported by Google Developers.
+
+
